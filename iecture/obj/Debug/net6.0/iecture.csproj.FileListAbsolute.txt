@@ -1,0 +1,15 @@
+D:\IT\introduction to programming\iecture\bin\Debug\net6.0\iecture.exe
+D:\IT\introduction to programming\iecture\bin\Debug\net6.0\iecture.deps.json
+D:\IT\introduction to programming\iecture\bin\Debug\net6.0\iecture.runtimeconfig.json
+D:\IT\introduction to programming\iecture\bin\Debug\net6.0\iecture.dll
+D:\IT\introduction to programming\iecture\bin\Debug\net6.0\iecture.pdb
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.csproj.AssemblyReference.cache
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.AssemblyInfoInputs.cache
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.AssemblyInfo.cs
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.csproj.CoreCompileInputs.cache
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.dll
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\refint\iecture.dll
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.pdb
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\iecture.genruntimeconfig.cache
+D:\IT\introduction to programming\iecture\obj\Debug\net6.0\ref\iecture.dll
